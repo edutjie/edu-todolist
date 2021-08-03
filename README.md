@@ -1,8 +1,8 @@
 # edu-todolist
  A ReactJs based Todo List webapp that uses Google Firebase to store database and host the webapp.
  
- <b>Visit the website below to see the actual webapp.</b>
- https://todo-list-c2ca2.web.app/
+ <h1>Visit the website below to see the actual webapp.</h1>
+ <p>https://todo-list-c2ca2.web.app/</p>
  
  Inspired by:
  <ul>
