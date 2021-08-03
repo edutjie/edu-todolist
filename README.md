@@ -14,4 +14,17 @@
   </li>
  </ul>
  
+ <h2>To deploy the webapp to the localhost
+ <ul>
+  <li>
+   Clone the repository
+  </li>
+  <li>
+   Install inside of the folder's terminal <code>npm install</code>
+  </li>
+  <li>
+   Start the localhost <code>npm start</code>
+  </li>
+ </ul>
+ 
 
