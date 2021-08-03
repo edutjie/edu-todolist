@@ -14,7 +14,7 @@
   </li>
  </ul>
  
- <h2>To deploy the webapp to the localhost
+ <h2>To deploy the webapp to the localhost</h2>
  <ul>
   <li>
    Clone the repository
