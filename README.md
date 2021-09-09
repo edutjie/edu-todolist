@@ -2,6 +2,7 @@
  A ReactJs based Todo List webapp that uses Google Firebase to store data to database and host the webapp.
  
  <h3>Visit the link below to see the actual webapp!</h3>
+ <p>Note: the firebase database has expired, so it's no longer working</p>
  <h2>https://todo-list-c2ca2.web.app/</h2>
  
  Inspired by:
